@@ -1,0 +1,3 @@
+quick commands:
+
+rce - class based component that exports at bottom with class name based on file name
